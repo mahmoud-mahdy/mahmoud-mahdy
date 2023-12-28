@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mahdy</h1>
 <h3 align="center">junior data engineer</h3>
 <p>
-I am an enthusiastic Data Engineer seeking to improve my skills and gain experience. started learning as self-taught where I learned to code using Python and did several projects (you can check them in the Mini-Games folder in My_portofolio repo) recently graduated from a data engineering boot camp in Generation UK where I developed many more skills such as AWS (lambda, IAM, S3, cloud watch, redshift), python, docker, git, snowflake, Grafana, CI/CD, MySQL and PostgreSQL. you can check the two projects I did to pass my boot camp in the My_Portofolio repo.
+I am an enthusiastic Data Engineer seeking to improve my skills and gain experience. started learning as self-taught where I learned to code using Python and did several projects (you can check them in the "Mini-Games" folder in "My_portofolio" repo) recently graduated from a data engineering boot camp in Generation UK where I developed many more skills such as AWS (lambda, IAM, S3, cloud watch, redshift), python, docker, git, snowflake, Grafana, CI/CD, MySQL and PostgreSQL. you can check the two projects I did to pass my boot camp in the "My_Portofolio" repo.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-mahdy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-mahdy" /> </p>
 
