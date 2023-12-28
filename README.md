@@ -12,9 +12,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahmoud-mahdy-b193122a0/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Mahdy LinkedIn Profile" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Mahdy LinkedIn Profile" height="30" width="40" />
+LinkedIn Profile</a>
 <a href="https://www.codewars.com/users/ellathy" target="blank">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="40" width="120" /></a>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="40" width="120" />
+Codewars Profile</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
