@@ -15,7 +15,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mahmoud Mahdy LinkedIn Profile" height="30" width="40" />
 LinkedIn Profile</a>
 <a href="https://www.codewars.com/users/ellathy" target="blank">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="50" width="120" />
+<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="45" width="130" />
 Codewars Profile</a>
 
 
