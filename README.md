@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-mahdy-b193122a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-mahdy-b193122a0" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/ellathy" target="blank">
-<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="50" width="50" /></a>
+<img align="center" src="https://miro.medium.com/v2/resize:fit:880/1*0pLbHKAulWnsx4U2MQyn2w.png" alt="ellathy" height="40" width="50" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
