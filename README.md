@@ -5,8 +5,6 @@ I am an enthusiastic Data Engineer seeking to improve my skills and gain experie
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-mahdy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-mahdy" /> </p>
 
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoud-mahdy/My_Portfolio](https://github.com/mahmoud-mahdy/My_Portfolio)
 
 - 📫 How to reach me **mahmoud.r.mahdy@gmail.com**
