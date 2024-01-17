@@ -29,4 +29,4 @@ Codewars Profile</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-mahdy&show_icons=true&locale=en" alt="mahmoud-mahdy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-mahdy&" alt="mahmoud-mahdy" /></p>
+
