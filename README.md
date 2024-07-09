@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Mahdy</h1>
 <h3 align="center">junior data engineer</h3>
 <p>
-I am an enthusiastic Data Engineer seeking to improve my skills and gain experience. started learning as self-taught where I learned to code using Python and did several projects (you can check them in the "Mini-Games" folder in "My_portofolio" repo) recently graduated from a data engineering boot camp in Generation UK where I developed many more skills such as AWS (lambda, IAM, S3, cloud watch, redshift), python, docker, git, snowflake, Grafana, CI/CD, MySQL and PostgreSQL. you can check my most recent projects (CLI_coffe_shop, AWS_Pipeline) I did during my boot camp in the "My_Portofolio" repo.
+I am an enthusiastic Data Engineer. started learning as self-taught where I learned to code using Python and did several projects (you can check them in the "Mini-Games" folder in "My_portofolio" repo) recently graduated from a data engineering boot camp in Generation UK where I developed many more skills such as AWS (lambda, IAM, S3, cloud watch, redshift), python, docker, git, snowflake, Grafana, CI/CD, MySQL and PostgreSQL. you can check my most recent projects (CLI_coffe_shop, AWS_Pipeline) I did during my boot camp in the "My_Portofolio" repo. and for my last project, you can check the movie Lens pipeline 
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoud-mahdy/My_Portfolio](https://github.com/mahmoud-mahdy/My_Portfolio)
